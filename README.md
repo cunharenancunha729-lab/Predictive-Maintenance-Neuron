@@ -3,7 +3,7 @@
 
 
 
-Implementação de um neurônio artificial (regressão logística) **do zero, sem frameworks de deep learning**, para estimar a probabilidade de falha mecânica em máquinas industriais a partir de dados sensoriais — com comparação final contra redes neurais (MLP) treinadas em **PyTorch** e **Keras/TensorFlow**.
+Implementação de um neurônio artificial (regressão logística) **do zero, para estimar a probabilidade de falha mecânica em máquinas industriais a partir de dados sensoriais — com comparação final contra redes neurais (MLP) treinadas em **PyTorch** e **Keras/TensorFlow**.
 
 ![Painel interativo de risco<img width="1156" height="422" alt="Painel Interativo - Risco da Função da Ferramenta" src="https://github.com/user-attachments/assets/b15e234d-b40b-4649-9e41-ef5d537762f5" />
 
