@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dados e modelos (evita subir arquivos grandes/gerados)
+*.csv
+*.pkl
+*.joblib
+data/
+models/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Ambientes/segredos
+.env
