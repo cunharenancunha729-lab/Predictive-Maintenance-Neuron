@@ -35,10 +35,10 @@ Entender e demonstrar, na prática, a matemática por trás de uma rede neural s
 
 | Modelo | Recall | Precisão |
 |---|---|---|
-| Neurônio manual (NumPy) | *preencher após rodar* | *preencher após rodar* |
-| scikit-learn (LogisticRegression) | *preencher após rodar* | *preencher após rodar* |
-| PyTorch (MLP) | *preencher após rodar* | *preencher após rodar* |
-| Keras/TensorFlow (MLP) | *preencher após rodar* | *preencher após rodar* |
+| Neurônio manual (NumPy) | Recall (falhas detectadas corretamente): 82.0%| 13.5% |
+| scikit-learn (LogisticRegression) | 82.6% | 13.9%|
+| PyTorch (MLP) | 93.5% |  26.3% |
+| Keras/TensorFlow (MLP) | 90.0%|   39.8%|
 
 > A implementação manual chega a resultados próximos dos frameworks consolidados, o que confirma que o raciocínio matemático por trás está correto.
 
