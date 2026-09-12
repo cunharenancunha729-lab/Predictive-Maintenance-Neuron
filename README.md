@@ -19,7 +19,7 @@ Entender e demonstrar, na prática, a matemática por trás de uma rede neural s
 - ~10.000 registros de operação de máquinas industriais
 - Variáveis: temperatura do ar, temperatura do processo, velocidade rotacional, torque e desgaste da ferramenta
 - Alvo: `Machine failure` (0 = normal, 1 = falha)
-- **Observação:** é um dataset sintético, mas estruturado para refletir de forma realista dados reais de manutenção industrial — por isso é amplamente usado como benchmark em pesquisa e portfólios de ML.
+- **Observação:* é um dataset estruturado para refletir de forma realista dados reais de manutenção industrial — por isso é amplamente usado como benchmark em pesquisa e portfólios de ML.
 - Desbalanceamento real: apenas **~3,4%** dos registros são falhas.
 - O CSV (`data/ai4i2020.csv`) não é versionado neste repositório (veja `.gitignore`) — instruções de download estão na seção [Como rodar](#como-rodar).
 
